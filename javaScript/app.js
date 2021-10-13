@@ -1,33 +1,33 @@
 document.querySelector("")
 
 function clicked0 () {
-    location.href = "https://youtu.be/L-9s4nTLSdA"
+    window.open("https://youtu.be/L-9s4nTLSdA", "_blank");
 }
 
 function clicked1 () {
-    location.href = "https://youtu.be/8JT1JmTn3mo"
+    window.open("https://youtu.be/8JT1JmTn3mo", "_blank");
 }
 
 function clicked2 () {
-    location.href = "https://youtu.be/GLk7-imcjiI"
+    window.open("https://youtu.be/GLk7-imcjiI", "_blank");
 }
 
 function clicked3 () {
-    location.href = "https://youtu.be/o5SQIECedTY"
+    window.open("https://youtu.be/o5SQIECedTY", "_blank");
 }
 
 function clicked4 () {
-    location.href = "https://youtu.be/kcW4ABcY3zI"
+    window.open("https://youtu.be/kcW4ABcY3zI", "_blank");
 }
 
 function clicked5 () {
-    location.href = "https://www.youtube.com/watch?v=kn271kr_ks0"
+    window.open("https://www.youtube.com/watch?v=kn271kr_ks0", "_blank");
 }
 
 function clicked6 () {
-    location.href = "https://www.youtube.com/watch?v=AaZ_RSt0KP8&t=1047s"
+    window.open("https://www.youtube.com/watch?v=AaZ_RSt0KP8&t=1047s", "_blank");
 }
 
 function clicked7 () {
-    location.href = "https://www.youtube.com/watch?v=iCMGPRiDXQg&t=132s"
+    window.open("https://www.youtube.com/watch?v=iCMGPRiDXQg&t=132s", "_blank");
 }
